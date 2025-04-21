@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Ignore Configs
-config.py
+*config.py
 
 # C extensions
 *.so
@@ -76,7 +76,6 @@ docs/_build/
 
 # PyBuilder
 .pybuilder/
-target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
